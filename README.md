@@ -14,16 +14,16 @@
 * [mingju_shiwen_initials.txt](mingju/shiwen/mingju_shiwen_initials.txt) - **诗文**名句top500（声母）
 <br></br>
 * [mingju_guji_original.txt](mingju/guji/mingju_guji_original.txt) - **古籍**名句top500（原文）
-* [mingju_guji_first_letter.txt](mingju/guji/mingju_guji_first_letter.txt) - **古籍**名句top500（原文）
-* [mingju_guji_initials.txt](mingju/guji/mingju_guji_initials.txt) - **古籍**名句top500（原文）
+* [mingju_guji_first_letter.txt](mingju/guji/mingju_guji_first_letter.txt) - **古籍**名句top500（首字母）
+* [mingju_guji_initials.txt](mingju/guji/mingju_guji_initials.txt) - **古籍**名句top500（声母）
 <br></br>
 * [mingju_yanyu_original.txt](mingju/yanyu/mingju_yanyu_original.txt) - **谚语**名句top500（原文）
-* [mingju_yanyu_first_letter.txt](mingju/yanyu/mingju_yanyu_first_letter.txt) - **谚语**名句top500（原文）
-* [mingju_yanyu_initials.txt](mingju/yanyu/mingju_yanyu_initials.txt) - **谚语**名句top500（原文）
+* [mingju_yanyu_first_letter.txt](mingju/yanyu/mingju_yanyu_first_letter.txt) - **谚语**名句top500（首字母）
+* [mingju_yanyu_initials.txt](mingju/yanyu/mingju_yanyu_initials.txt) - **谚语**名句top500（声母）
 <br></br>
 * [mingju_duilian_original.txt](mingju/duilian/mingju_duilian_original.txt) - **对联**名句top500（原文）
-* [mingju_duilian_first_letter.txt](mingju/duilian/mingju_duilian_first_letter.txt) - **对联**名句top500（原文）
-* [mingju_duilian_initials.txt](mingju/duilian/mingju_duilian_initials.txt) - **对联**名句top500（原文）
+* [mingju_duilian_first_letter.txt](mingju/duilian/mingju_duilian_first_letter.txt) - **对联**名句top500（首字母）
+* [mingju_duilian_initials.txt](mingju/duilian/mingju_duilian_initials.txt) - **对联**名句top500（声母）
 
 ## 未来会有什么
 * 对抗拥有[转换规则](https://github.com/bingoohuang/blog/issues/22) 的密码
