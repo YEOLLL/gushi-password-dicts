@@ -12,7 +12,8 @@
 * [mingju_initials.txt](mingju_intials.txt) - 古诗名句top500（声母）
 
 ## 未来会有什么
-* 泄漏历史中含有古诗词的密码
+* 对抗拥有[转换规则](https://github.com/bingoohuang/blog/issues/22) 的密码
+* 泄漏历史中含有古诗词的密码（进度慢）
 * 谚语名句
 * 对联名句
 * 古籍名句
