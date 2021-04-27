@@ -163,3 +163,5 @@ character = {
         '空': ' '
     }
 }
+
+var = number, character
