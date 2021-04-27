@@ -27,6 +27,7 @@
 
 ### 拥有[转换规则](https://github.com/bingoohuang/blog/issues/22 )的密码
 规则来自[https://github.com/bingoohuang/blog/issues/22](https://github.com/bingoohuang/blog/issues/22)  
+目前字典应用了全部规则，自定义规则的脚本再等等...再等等......
 * [mingju_shiwen_converted.txt](converted/mingju_shiwen_converted.txt) - **诗文**名句top500（转换规则）
 
 ## 未来会有什么
