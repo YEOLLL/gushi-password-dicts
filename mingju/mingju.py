@@ -18,6 +18,7 @@ def get_response(page, category):
                             headers=headers,
                             params=params
                             ).json()
+
     return response
 
 
